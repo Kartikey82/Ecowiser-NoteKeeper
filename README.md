@@ -4,7 +4,7 @@
 
 Ecowiser is a powerful and user-friendly notekeeper application built using React.js. This application allows users to create, edit, delete, and manage their notes efficiently. With a clean grid layout, pagination, and seamless CRUD operations via Firebase, Ecowiser ensures a smooth and intuitive note-taking experience.
 
-## Live Link : https://notekeeper-1b7cd.web.app/
+## Live Link : https://ecowiser-notekeeper-1.onrender.com
 
 ## Features
 
